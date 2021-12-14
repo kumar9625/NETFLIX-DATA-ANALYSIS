@@ -7,4 +7,19 @@ DIRECTER WISE ANALYSIS
 CATEGORY WISE ANALYSIS
 INTEREST WISE ANALYSIS
 ANALYSIS SHOWN USING VARIOUS GRAPHS, CHARTS
+
+LIBRARIES USED: PANDAS, NUMPY, MATPLOTLIB, SEABORN
+
 ![image](https://user-images.githubusercontent.com/89734523/146046816-3e226f3a-dbaa-44cb-b826-0daf2660879b.png)
+
+
+![image](https://user-images.githubusercontent.com/89734523/146046985-d4808a81-dc92-4319-95d4-8a494b1ff0b8.png)
+
+
+![image](https://user-images.githubusercontent.com/89734523/146047030-4fe94505-59d6-4252-83ec-b7db72a46e92.png)
+
+
+![image](https://user-images.githubusercontent.com/89734523/146047074-440dc724-3b97-4e2c-820c-d019ae787088.png)
+
+
+![image](https://user-images.githubusercontent.com/89734523/146047119-22dce87c-a66f-46d5-90bc-5cae969fab4f.png)
